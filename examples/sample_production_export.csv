@@ -1,0 +1,13 @@
+date,shift,line,planned_qty,good_qty,scrap_qty,run_minutes,downtime_minutes,downtime_reason
+2026-11-15,Early,Line 1 CNC,420,374,2,455,25,Material shortage
+2026-11-15,Early,Line 2 Press,900,746,5,425,55,Changeover
+2026-11-15,Early,Line 3 Assembly,600,480,9,425,55,Material shortage
+2026-11-15,Early,Line 4 Paint,750,693,16,480,0,
+2026-11-15,Late,Line 1 CNC,420,412,3,480,0,
+2026-11-15,Late,Line 2 Press,900,622,23,345,135,Unplanned maintenance
+2026-11-15,Late,Line 3 Assembly,600,499,19,425,55,Quality hold
+2026-11-15,Late,Line 4 Paint,750,716,6,480,0,
+2026-11-15,Night,Line 1 CNC,420,367,9,440,40,Material shortage
+2026-11-15,Night,Line 2 Press,900,731,18,425,55,Operator break overrun
+2026-11-15,Night,Line 3 Assembly,600,456,11,390,90,Material shortage
+2026-11-15,Night,Line 4 Paint,750,717,19,480,0,
