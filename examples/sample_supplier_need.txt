@@ -1,0 +1,4 @@
+Need: aluminium 6082 bar, 70 mm diameter, T6, cut to 3 m, EN 754-2 certificate 3.1 (fictional sample)
+Quantity: 4 tonnes now, then 2 tonnes a month
+Required at our site (Valencia, Spain) by 2026-12-04
+Reason: current supplier Alutec delayed by two weeks; customer orders NP-4471 at risk.

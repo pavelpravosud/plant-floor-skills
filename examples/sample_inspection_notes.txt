@@ -1,0 +1,5 @@
+Final inspection, part NP-4471 rev C (fictional sample)
+Bore 62 H7 oversize on lots L-1183 and L-1184, machine CNC-07 only.
+CNC-04 parts in tolerance. Boring bar insert on CNC-07 last changed 2026-11-12 (tool log).
+Coolant concentration checked 2026-11-10: 6% (spec 7-9%).
+240 parts from L-1183/L-1184 already in finished stock, 120 shipped to customer on 2026-11-15.

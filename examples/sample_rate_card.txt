@@ -1,0 +1,7 @@
+Rate card (fictional sample)
+CNC turning centre: 78 EUR/h
+5-axis milling: 95 EUR/h
+Setup labour: 55 EUR/h
+Overhead: 12% of cost
+Target margin: 24%
+Scrap allowance: 3% material

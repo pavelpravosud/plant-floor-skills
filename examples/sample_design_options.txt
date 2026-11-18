@@ -1,0 +1,5 @@
+Bracket for pump mounting, 2,000 pcs a year (fictional sample)
+Targets: unit cost <= 9 EUR, mass <= 0.9 kg, safety factor >= 2.0, lead time <= 6 weeks.
+Option A - Machined from Al 6082 block: mass 0.62 kg, safety factor 2.6, unit cost 12.40 EUR, no tooling, lead time 3 weeks, 1 part.
+Option B - Laser-cut and bent S355 steel, welded: mass 1.05 kg, safety factor 3.1, unit cost 6.80 EUR, tooling 1,200 EUR, lead time 4 weeks, 3 parts plus welding.
+Option C - Aluminium die casting with light machining: mass 0.71 kg, safety factor 2.2, unit cost 5.90 EUR, tooling 28,000 EUR, lead time 12 weeks, 1 part.

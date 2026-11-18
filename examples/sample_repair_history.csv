@@ -1,0 +1,4 @@
+date,machine,symptom,cause_found,fix,downtime_h
+2026-03-02,P-03,Pump noise and low pressure,Air ingress at suction line clamp,Clamp replaced and line bled,3.5
+2026-06-19,P-03,Oil temperature high,Cooler fan contactor failed,Contactor replaced,2.0
+2026-09-27,P-01,Low pressure,Worn pump,Pump exchanged,14.0

@@ -1,0 +1,5 @@
+Machine: Press P-03, 400 t hydraulic press, Line 2 (fictional sample)
+Stopped 2026-11-15 14:52, late shift.
+Alarm codes: A217 "Hydraulic oil temperature high", A031 "Main pump pressure low".
+Operator note: louder whining from the pump unit for about 30 minutes before the stop. Oil looked foamy in the sight glass.
+Recent changes: oil filter replaced 2026-11-08.

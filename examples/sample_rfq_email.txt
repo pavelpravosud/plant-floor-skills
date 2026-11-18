@@ -1,0 +1,16 @@
+From: Laura Brenner, Purchasing, Nordwerk Pumps GmbH (fictional sample)
+Subject: RFQ - pump housing flange, part NP-4471 rev C
+
+Hello,
+please quote the flange below for our new pump series.
+
+- Part: NP-4471 rev C, pump housing flange (drawing attached)
+- Material: aluminium 6082
+- Quantities: 500 and 2,000 pieces per year
+- Machining: turned and milled, 6 x M10 tapped holes, bore 62 mm H7
+- Finish: anodised
+- First delivery: week 10, then monthly call-offs
+- Please include lead time and tooling if any.
+
+Thanks,
+Laura

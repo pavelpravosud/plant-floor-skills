@@ -1,0 +1,4 @@
+Bid 1 - MetalBar Iberia (Spain): 4.95 EUR/kg, delivered Valencia (DAP), lead time 8 days, MOQ 2 t, cert 3.1 yes, payment 60 days.
+Bid 2 - Baltic Alloys (Poland): 4.40 EUR/kg EXW Gdansk, freight to Valencia approx. 0.38 EUR/kg, lead time 15 days, MOQ 5 t, cert 3.1 yes, payment 30 days.
+Bid 3 - EastStar Metals (outside EU): 3.90 EUR/kg FOB, freight and duty approx. 0.85 EUR/kg, lead time 35 days, MOQ 10 t, cert 2.2 only, payment in advance.
+(fictional sample)
